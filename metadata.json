@@ -1,0 +1,7 @@
+{
+  "name": "Simultaneous Translator",
+  "description": "A real-time, AI-powered simultaneous translation application using the Gemini Live API to translate between Japanese and English.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
